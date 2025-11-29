@@ -23,4 +23,4 @@ Light Theme
 
 Dark Theme
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL7/blob/7d4bb3b9c8c730555eaccda139c1ab95bfc8dd6d/Screenshot%202025-11-29%20112622.png)
