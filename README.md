@@ -19,7 +19,7 @@ Delete a record: Tap the trash can icon next to a person's details to delete tha
 Screenshots
 Light Theme
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL7/blob/16fef684920db2e20eae0a0bdd115722544b6f7c/Screenshot%202025-11-29%20112609.png)
 
 Dark Theme
 
